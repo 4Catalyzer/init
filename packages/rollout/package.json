@@ -38,7 +38,7 @@
     "listr-input": "^0.2.0",
     "read-pkg-up": "^7.0.1",
     "rimraf": "^3.0.0",
-    "rxjs": "^6.5.2",
+    "rxjs": "^7.2.0",
     "semver": "^7.3.4"
   },
   "devDependencies": {
