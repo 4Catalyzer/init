@@ -19,7 +19,7 @@
   "dependencies": {
     "@4c/cli-core": "^2.3.0",
     "@babel/code-frame": "^7.12.13",
-    "dotenv": "^8.1.0",
+    "dotenv": "^10.0.0",
     "exists-case": "^0.1.0",
     "fork-ts-checker-webpack-plugin": "^6.1.0",
     "lodash": "^4.17.20",
