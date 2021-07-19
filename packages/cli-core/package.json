@@ -15,7 +15,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "execa": "^5.0.0",
-    "fs-extra": "^9.1.0",
+    "fs-extra": "^10.0.0",
     "git-default-branch": "^1.0.0",
     "globby": "^11.0.2",
     "inquirer": "^7.3.3",
